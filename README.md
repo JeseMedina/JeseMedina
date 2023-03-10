@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, soy Jesé Medina</h1>
 <h3 align="center">Me encanta el desarrollo web con React.</h3>
 
-- 🔭 Actualmente estoy trabajando en [App de Peliculas y Series](https://github.com/JeseMedina/App-Movies-and-Series)
+- Actualmente estoy trabajando en [App de Peliculas y Series](https://github.com/JeseMedina/App-Movies-and-Series)
 
-- 📫 Puedes contactarme en **skajese@gmail.com**
+- Puedes contactarme en **skajese@gmail.com**
+
+- [Mi Portafolio](https://jesemedina.netlify.app/)
 
 <h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
