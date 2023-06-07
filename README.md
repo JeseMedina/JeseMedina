@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jesé Medina</h1>
 <h3 align="center">Me encanta el desarrollo web con React.</h3>
 
-- Actualmente estoy trabajando en [App de Peliculas y Series](https://github.com/JeseMedina/App-Movies-and-Series)
+- Actualmente estoy trabajando en [SpecTask](https://github.com/JeseMedina/SpecTask)
 
 - Puedes contactarme en **skajese@gmail.com**
 
