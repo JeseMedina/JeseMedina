@@ -43,7 +43,6 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="vsc" width="40" height="40"/> </a>
 <a href="https://prettier.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/prettier-icon-256x256-bdcu9jmd.png" alt="prettier" width="40" height="40"/> </a>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-3628755-3029980.png" alt="eslint" width="40" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="40" height="40"/> </a>
